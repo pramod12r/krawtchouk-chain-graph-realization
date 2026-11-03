@@ -5,8 +5,11 @@ type: software
 authors:
   - family-names: Pramada
     given-names: J.
+    orcid: "https://orcid.org/0009-0006-6240-0482"
   - family-names: Kumar
     given-names: D. V. S. R. Anil
-  - family-names: Rao
-    given-names: Y. V. Seshagiri
+    orcid: "https://orcid.org/0009-0001-3867-9528"
+  - family-names: Reddy
+    given-names: A. Pramod
+    orcid: "https://orcid.org/0000-0002-3912-3302"
 repository-code: "https://github.com/pramod12r/krawtchouk-chain-graph-realization"
