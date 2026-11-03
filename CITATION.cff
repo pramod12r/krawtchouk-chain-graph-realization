@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Krawtchouk Chain Graph Realization"
+type: software
+authors:
+  - family-names: Pramada
+    given-names: J.
+  - family-names: Kumar
+    given-names: D. V. S. R. Anil
+  - family-names: Rao
+    given-names: Y. V. Seshagiri
+repository-code: "https://github.com/pramod12r/krawtchouk-chain-graph-realization"
